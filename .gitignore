@@ -1,0 +1,13 @@
+.venv/
+ryu-venv/
+ryu/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.env
+*.log
+.pytest_cache/
+.mypy_cache/
+.coverage
+*.swp
+.DS_Store
